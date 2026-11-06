@@ -1,0 +1,18 @@
+[
+  {
+    "name": "v0.5.0.md",
+    "path": "releases/v0.5.0.md",
+    "sha": "bb04381c33dbd79e8407742efd2dddf0443c5587",
+    "size": 20160,
+    "url": "https://api.github.com/repos/ShingZhanho/verbe-conjugaison-academie-francaise/contents/releases/v0.5.0.md?ref=master",
+    "html_url": "https://github.com/ShingZhanho/verbe-conjugaison-academie-francaise/blob/master/releases/v0.5.0.md",
+    "git_url": "https://api.github.com/repos/ShingZhanho/verbe-conjugaison-academie-francaise/git/blobs/bb04381c33dbd79e8407742efd2dddf0443c5587",
+    "download_url": "https://raw.githubusercontent.com/ShingZhanho/verbe-conjugaison-academie-francaise/master/releases/v0.5.0.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/ShingZhanho/verbe-conjugaison-academie-francaise/contents/releases/v0.5.0.md?ref=master",
+      "git": "https://api.github.com/repos/ShingZhanho/verbe-conjugaison-academie-francaise/git/blobs/bb04381c33dbd79e8407742efd2dddf0443c5587",
+      "html": "https://github.com/ShingZhanho/verbe-conjugaison-academie-francaise/blob/master/releases/v0.5.0.md"
+    }
+  }
+]
